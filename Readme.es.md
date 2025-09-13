@@ -1,5 +1,5 @@
 # Buscador de rutas en Prolog
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jose-r-morera/Prolog_Air_Routes_Finder/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jose-r-morera/Prolog_Air_Routes_Finder/blob/main/Readme.md)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 * **Autor**: José Ramón Morera Campos
 
