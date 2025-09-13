@@ -1,6 +1,6 @@
 # Prolog Air Route Finder
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jose-r-morera/Prolog_Air_Routes_Finder/blob/main/README.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/jose-r-morera/Prolog_Air_Routes_Finder/blob/main/README.es.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jose-r-morera/Prolog_Air_Routes_Finder/blob/main/Readme.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/jose-r-morera/Prolog_Air_Routes_Finder/blob/main/Readme.es.md)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 * **Author**: José Ramón Morera Campos
 
